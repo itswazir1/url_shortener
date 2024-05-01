@@ -1,1 +1,1 @@
-pyshortener
+pip install pyshortener
